@@ -1,0 +1,20 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "popup.js" ]
+      }
+   },
+   "description": "Application for leave YouTube™ always on top.",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "19": "icon-19.png",
+      "38": "icon-38.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiOF0fCwpGDeFVwvMUicrlBjT0nqbnNlEtkMUuH0I5n/Q2cG14oryEr5ahmUBKY08ghzIhdSr+5TkTB4CE2zu23HADEu03IaFLfzHQ6ZU3Emy6aCP1Jtd5H8rnUkionSpg2ozi4bPfmxdgqHzf/4GRU7qFAN+SyvhyWTIExwF+HMVTe3wuKe6ENpHxpR/oJIupqnJ/2snBfYjtMGWWQaAxgejppT9pHm3Gn/alumRzuOUGil253nsEOvMJYN8Mt5rH7OG87sjrCkn/GSJmC8w4X8jV8k+GLQhQDdv714JecL5OO2Sr7MRIt405fERZlc+r2Y8r2xWNbXqcT6khY9ZNQIDAQAB",
+   "manifest_version": 2,
+   "name": "Always On Top for YouTube™",
+   "permissions": [ "storage", "app.window", "alwaysOnTopWindows", "webview", "http://www.youtube.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0"
+}
